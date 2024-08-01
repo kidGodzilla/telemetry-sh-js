@@ -1,6 +1,6 @@
 {
   "name": "telemetry-sh-js",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "Minimal client-side helper library for sending Telemetry.sh events",
   "main": "index.js",
   "scripts": {
